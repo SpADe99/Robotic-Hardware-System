@@ -1,0 +1,25 @@
+Note for industrial sharing session by Dr.Afnizanfaizal Abdullah, Chief Technology Officer, AERODYNE GROUP.
+
+Drone
+- A drone is a flying robot that can be remotely controlled or fly autonomously using software-controlled flight plans in its embedded systems, that work in conjunction with onboard sensors and a global positioning system (GPS).
+- UAVs were most often associated with the military. 
+- Drones are now also used in a range of civilian roles, including the following:
+	- Trafic monitoring
+	- Weather monitoring
+- Remote sensing
+	- Satelite
+	- Plane
+	- UAV
+- Plane > Satelite in data collection
+	
+AI
+- AI immitates human's senses and behaviour.
+- AI application
+	- Machine Vision - Differentiate objects seen by camera.
+	- Robotics
+	- Machine Learning - Deep learning & Predictive Analysis
+
+Possible work
+- Data Analysis
+- 3D model contruction
+- Create digital environment
